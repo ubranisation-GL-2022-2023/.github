@@ -29,9 +29,9 @@
 <!-- ABOUT THE ORGANIZATION -->
 ## About The Organization
 
-This Organization contains the logic behind the solution proposed to tackle the different problems encountered by AMYSME.
-**AMYSME** is an enterprise that offers a full Smart House solution ( hardware and software ). Despite its sucess, it faces a lot of problems (systems, ressources ...)
-that can lead to losing its value on the market. We can mention : 
+This Organization contains the logic behind the solution proposed to tackle the different problems encountered by AMYSME.  
+**AMYSME** is an enterprise that offers a full Smart House solution ( hardware and software ). Despite its sucess, it faces a lot of problems (systems, ressources ...)  
+that can lead to losing its value on the market. We can mention :  
 
   1- Its Spaghetti architecture and the entrangled communication between the departments.  
   2- Its not fully digitalized (Use of papers).  
